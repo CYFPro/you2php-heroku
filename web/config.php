@@ -1,6 +1,6 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyB__U_fY6X_VOUUfIzhOvqMMCLCMnErW1Y');//这里改成您的api key
+define('APIKEY', AIzaSyB__U_fY6X_VOUUfIzhOvqMMCLCMnErW1Y);//这里改成您的api key
 define('GJ_CODE', 'JP');//国家代码
 define('SITE_NAME', 'Pig's oil Youtube');//网站名字
 define('TITLENAME', 'Youtube');//网站名字
